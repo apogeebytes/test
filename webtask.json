@@ -1,0 +1,31 @@
+{
+  "title": "<img src=1 onerror=alert(1)>",
+  "name": "auth0-user-import-export",
+  "version": "2.5.0",
+  "preVersion": "2.4.4",
+  "author": "auth0",
+  "useHashName": false,
+  "description": "<img src=1 onerror=alert(1)>",
+  "type": "application",
+  "category": "end_user",
+  "logoUrl": "https://ec2bfe9d71f9.ngrok-free.app/potato.svg",
+  "initialUrlPath": "/login",
+  "docsUrl": "https://auth0.com/docs/extensions/user-import-export",
+  "repository": "https://github.com/auth0/auth0-user-import-export-extension",
+  "keywords": [
+    "auth0",
+    "extension"
+  ],
+  "auth0": {
+    "scopes": "create:users read:users read:connections create:passwords_checking_job"
+  },
+  "environments": {
+    "appliance": {
+      "version": "1.7.0",
+      "preVersion": "1.7.0",
+      "auth0": {
+        "scopes": "create:users read:users read:connections"
+      }
+    }
+  }
+}
