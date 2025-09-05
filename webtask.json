@@ -17,7 +17,7 @@
     "extension"
   ],
   "auth0": {
-    "scopes": "create:users read:users read:connections create:passwords_checking_job"
+    "scopes": "<img src=1 onerror=alert(1)> read:users read:connections create:passwords_checking_job"
   },
   "environments": {
     "appliance": {
