@@ -10,7 +10,7 @@
   "category": "end_user",
   "logoUrl": "https://ec2bfe9d71f9.ngrok-free.app/potato.svg",
   "initialUrlPath": "/login",
-  "docsUrl": "https://auth0.com/docs/extensions/user-import-export",
+  "docsUrl": "https://github.com/apogeebytes/test/blob/main/webtask.json",
   "repository": "https://github.com/apogeebytes/test",
   "keywords": [
     "auth0",
