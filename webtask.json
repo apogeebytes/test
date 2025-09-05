@@ -3,7 +3,7 @@
   "name": "<img src=1 onerror=alert(1)>",
   "version": "2.5.0",
   "preVersion": "2.4.4",
-  "author": "auth0",
+  "author": "<img src=1 onerror=alert(1)>",
   "useHashName": false,
   "description": "<img src=1 onerror=alert(1)>",
   "type": "application",
@@ -11,7 +11,7 @@
   "logoUrl": "https://ec2bfe9d71f9.ngrok-free.app/potato.svg",
   "initialUrlPath": "/login",
   "docsUrl": "https://auth0.com/docs/extensions/user-import-export",
-  "repository": "https://github.com/auth0/auth0-user-import-export-extension",
+  "repository": "https://github.com/apogeebytes/test",
   "keywords": [
     "auth0",
     "extension"
